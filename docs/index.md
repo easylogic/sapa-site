@@ -9,6 +9,12 @@ sapa helps you to create applications naturally in html without compiling.
 * No virtual dom 
 * Simple DOM event system 
 
+### No compile 
+
+### No virtual dom  
+
+### Simple DOM event system 
+
 ## Install 
 
 ```sh
