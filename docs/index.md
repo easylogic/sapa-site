@@ -1,7 +1,7 @@
 # sapa
 
 sapa is a library that creates a UI with a simple event system.
-# Basic concept
+## Basic concept
 
 sapa helps you to create applications naturally in html without compiling.
 
@@ -9,20 +9,20 @@ sapa helps you to create applications naturally in html without compiling.
 * No virtual dom 
 * Simple DOM event system 
 
-# Install 
+## Install 
 
 ```sh
 npm install @easylogic/sapa
 ```
 
-# How to use in es6
+### How to use in es6
 
 ```js
 import {App, UIElement, SUBSCRIBE, CLICK} from '@easylogic/sapa'
 
 ```
 
-# How to use in browser 
+### How to use in browser 
 
 ```html
 <script type='text/javascript' src='https://cdn.jsdelivr.net/npm/@easylogic/sapa@0.3.0/dist/sapa.umd.js'></script>
@@ -32,7 +32,7 @@ import {App, UIElement, SUBSCRIBE, CLICK} from '@easylogic/sapa'
 
 ```
 
-# View examples 
+## View examples 
 
 ```
 npm run dev 
@@ -40,7 +40,7 @@ open localhost:8080/examples/first.html
 ```
 
 
-# Core System Design 
+## Core System Design 
 
 
 
