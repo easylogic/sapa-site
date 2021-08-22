@@ -5,15 +5,13 @@ sapa is a library that creates a UI with a simple event system.
 
 sapa helps you to create applications naturally in html without compiling.
 
-* No compile
-* No virtual dom 
-* Simple DOM event system 
+#### No compile and virtual dom 
 
-### No compile 
+sapa is using only html string to create dom element. 
 
-### No virtual dom  
+#### Simple DOM event system 
 
-### Simple DOM event system 
+sapa provides a system for handling events well.
 
 ## Install 
 
@@ -21,14 +19,14 @@ sapa helps you to create applications naturally in html without compiling.
 npm install @easylogic/sapa
 ```
 
-### How to use in es6
+#### How to use in es6
 
 ```js
 import {App, UIElement, SUBSCRIBE, CLICK} from '@easylogic/sapa'
 
 ```
 
-### How to use in browser 
+#### How to use in browser 
 
 ```html
 <script type='text/javascript' src='https://cdn.jsdelivr.net/npm/@easylogic/sapa@0.3.0/dist/sapa.umd.js'></script>
@@ -38,16 +36,35 @@ import {App, UIElement, SUBSCRIBE, CLICK} from '@easylogic/sapa'
 
 ```
 
-## View examples 
-
-```
-npm run dev 
-open localhost:8080/examples/first.html
-```
-
-
 ## Core System Design 
 
+
+<div>
+    <div>
+        <div class="core-design-item uielement">
+            <h1>UI Element</h1>
+            <div class="container">
+                <div class="core-design-item eventmachine">
+                    <h1>Event Machine</h1>
+                    <div class="eventmachine-item">
+                        <div><a href="#dom-based-class-system">PARSE</a></div>
+                        <div><a href="#load">LOAD</a></div>
+                        <div><a href="#bind">BIND</a></div>
+                        <div><a href="#method-based-dom-event-handler">DOM EVENT</a></div>
+                    </div>
+                </div>
+                <div class="core-design-item basestore">
+                    <h1>Base Store</h1>
+                    <div class="basestore-item">
+                        <div><a href="#subscribe">SUBSCRIBE</a></div>
+                        <div><a href="#emit">EMIT</a></div>
+                        <div><a href="#trigger">TRIGGER</a></div>
+                    </div>                
+                </div>    
+            </div>        
+        </div>
+    </div>
+</div>
 
 
 ## Start a application 
