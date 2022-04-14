@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/dom-based-class",
+  "id": "tutorial-basics/dom-based-class",
+  "title": "DOM Based Class System",
+  "description": "Use the template () method to specify the actual HTML string for MyElement.",
+  "source": "@site/docs/tutorial-basics/dom-based-class.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/dom-based-class",
+  "permalink": "/docs/tutorial-basics/dom-based-class",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/dom-based-class.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Start sapa",
+    "permalink": "/docs/tutorial-basics/start-sapa"
+  },
+  "next": {
+    "title": "Class Features",
+    "permalink": "/docs/tutorial-basics/class-features"
+  }
+}

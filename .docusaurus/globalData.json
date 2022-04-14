@@ -1,0 +1,77 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/class-features",
+              "path": "/docs/tutorial-basics/class-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/core-system-design",
+              "path": "/docs/tutorial-basics/core-system-design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/dom-based-class",
+              "path": "/docs/tutorial-basics/dom-based-class",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/dom-event-system",
+              "path": "/docs/tutorial-basics/dom-event-system",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/life-cycle",
+              "path": "/docs/tutorial-basics/life-cycle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/messaging-system",
+              "path": "/docs/tutorial-basics/messaging-system",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/start-sapa",
+              "path": "/docs/tutorial-basics/start-sapa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

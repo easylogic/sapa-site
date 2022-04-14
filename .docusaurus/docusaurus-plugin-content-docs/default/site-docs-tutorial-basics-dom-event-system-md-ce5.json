@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/dom-event-system",
+  "id": "tutorial-basics/dom-event-system",
+  "title": "DOM Event Handler",
+  "description": "sapa sets the DOM Event in a unique way. sapa take full advantage of the fact that javascript's methods are strings.",
+  "source": "@site/docs/tutorial-basics/dom-event-system.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/dom-event-system",
+  "permalink": "/docs/tutorial-basics/dom-event-system",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/dom-event-system.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Life Cycle",
+    "permalink": "/docs/tutorial-basics/life-cycle"
+  },
+  "next": {
+    "title": "Messaging System",
+    "permalink": "/docs/tutorial-basics/messaging-system"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "/blog/-48e": {
+    "component": "a6aa9e1f",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "531309f0"
+      }
+    ],
+    "metadata": "b2b675dd",
+    "__routeContextModule": "45d8e219"
+  },
+  "/blog/archive/-73a": {
+    "component": "9e4087bc",
+    "archive": "b2f554cd",
+    "__routeContextModule": "45d8e219"
+  },
+  "/blog/first-blog-post/-954": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "d57d35c1",
+    "__routeContextModule": "45d8e219"
+  },
+  "/blog/tags/-317": {
+    "component": "01a85c17",
+    "sidebar": "814f3328",
+    "tags": "a7023ddc",
+    "__routeContextModule": "45d8e219"
+  },
+  "/blog/tags/easylogic/-28f": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "531309f0"
+      }
+    ],
+    "metadata": "8b6305af",
+    "listMetadata": "11e12f16",
+    "__routeContextModule": "45d8e219"
+  },
+  "/blog/tags/sapa/-27a": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "531309f0"
+      }
+    ],
+    "metadata": "07bf1018",
+    "listMetadata": "fd60ad6c",
+    "__routeContextModule": "45d8e219"
+  },
+  "/blog/tags/start/-a19": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "531309f0"
+      }
+    ],
+    "metadata": "4d7a8e4d",
+    "listMetadata": "83129fb2",
+    "__routeContextModule": "45d8e219"
+  },
+  "/markdown-page/-7dc": {
+    "component": "1f391b9e",
+    "content": "393be207",
+    "__routeContextModule": "2186300b"
+  },
+  "/docs/-4ac": {
+    "component": "1be78505",
+    "versionMetadata": "935f2afb",
+    "__routeContextModule": "d7eb36c3"
+  },
+  "/docs/intro/-688": {
+    "component": "17896441",
+    "content": "0e384e19"
+  },
+  "/docs/tutorial-basics/class-features/-d7c": {
+    "component": "17896441",
+    "content": "156b3f81"
+  },
+  "/docs/tutorial-basics/core-system-design/-f19": {
+    "component": "17896441",
+    "content": "cb892aba"
+  },
+  "/docs/tutorial-basics/dom-based-class/-6af": {
+    "component": "17896441",
+    "content": "ba7613df"
+  },
+  "/docs/tutorial-basics/dom-event-system/-727": {
+    "component": "17896441",
+    "content": "ce572d8a"
+  },
+  "/docs/tutorial-basics/life-cycle/-2b0": {
+    "component": "17896441",
+    "content": "881bf5d9"
+  },
+  "/docs/tutorial-basics/messaging-system/-f45": {
+    "component": "17896441",
+    "content": "58b5534f"
+  },
+  "/docs/tutorial-basics/start-sapa/-1e6": {
+    "component": "17896441",
+    "content": "9453a770"
+  },
+  "/docs/tutorial-extras/manage-docs-versions/-bc2": {
+    "component": "17896441",
+    "content": "dff1c289"
+  },
+  "/docs/tutorial-extras/translate-your-site/-dad": {
+    "component": "17896441",
+    "content": "e44a2883"
+  },
+  "/-61a": {
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a",
+    "__routeContextModule": "2186300b"
+  }
+}

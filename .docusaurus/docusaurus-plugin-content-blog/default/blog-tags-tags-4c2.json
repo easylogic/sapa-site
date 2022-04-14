@@ -1,0 +1,20 @@
+{
+  "easylogic": {
+    "allTagsPath": "/blog/tags",
+    "name": "easylogic",
+    "count": 1,
+    "permalink": "/blog/tags/easylogic"
+  },
+  "sapa": {
+    "allTagsPath": "/blog/tags",
+    "name": "sapa",
+    "count": 1,
+    "permalink": "/blog/tags/sapa"
+  },
+  "start": {
+    "allTagsPath": "/blog/tags",
+    "name": "start",
+    "count": 1,
+    "permalink": "/blog/tags/start"
+  }
+}

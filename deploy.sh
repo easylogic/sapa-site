@@ -7,10 +7,10 @@ set -e
 yarn build
 
 # navigate into the build output directory
-cd docs/.vitepress/dist
+cd build/
 
 # if you are deploying to a custom domain
-echo 'sapa.easylogic.studio' > CNAME
+# echo 'sapa.easylogic.studio' > CNAME
 
 git init
 git add -A

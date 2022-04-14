@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/life-cycle",
+  "id": "tutorial-basics/life-cycle",
+  "title": "Life Cycle",
+  "description": "sapa has a life cycle.",
+  "source": "@site/docs/tutorial-basics/life-cycle.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/life-cycle",
+  "permalink": "/docs/tutorial-basics/life-cycle",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/life-cycle.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Class Features",
+    "permalink": "/docs/tutorial-basics/class-features"
+  },
+  "next": {
+    "title": "DOM Event Handler",
+    "permalink": "/docs/tutorial-basics/dom-event-system"
+  }
+}
