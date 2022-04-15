@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksapa_site_2=self.webpackChunksapa_site_2||[]).push([[315],{8487:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/easylogic","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
